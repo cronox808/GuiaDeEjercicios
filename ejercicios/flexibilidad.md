@@ -22,3 +22,12 @@ Los ejercicios de flexibilidad estiran los músculos y ayudan a mantener la flex
 4. A medida que se vuelva más flexible, intente estirarse más en cada ejercicio. Es normal que se produzca un ligero tirón durante un estiramiento. El dolor agudo o punzante, o el dolor en las articulaciones significa que debe parar, ya que está estirando demasiado.
 
 5. Siempre mantenga ligeramente flexionadas las articulaciones, nunca “fijas” en una posición recta. Esto puede causar lesiones.
+
+## Consejos
+- Mantener el movimiento en la rutina.
+- Calentamiento adecuado del cuerpo.
+- Incorporar el uso del rodillo de espuma.
+- Estiramientos específicos.
+- Hacer pilates para mejorar la flexibilidad.
+- Practicar tai chi.
+- Consistencia en el estiramiento.
