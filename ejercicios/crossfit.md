@@ -16,3 +16,11 @@ CrossFit es un entrenamiento de alta intensidad que combina elementos de atletis
 4. Enfócate en la técnica: Aprende bien los movimientos antes de aumentar la intensidad.
 5. Escucha a tu cuerpo: Descansa si es necesario.
 6. Mantén la constancia: Hazlo regularmente y registra tu progreso.
+
+## Consejos
+- Prioriza la técnica antes de la intensidad.
+- No te obsesiones con el peso, mejora poco a poco.
+- Escucha a tu cuerpo, evita sobreentrenarte.
+- Calienta y estira antes y después de entrenar.
+- Come bien y descansa, la recuperación es clave.
+- Sé constante y disfruta el proceso.
