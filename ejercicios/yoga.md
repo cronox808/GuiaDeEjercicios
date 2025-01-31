@@ -12,3 +12,9 @@ Sistema antiguo de prácticas que se usa para equilibrar la mente y el cuerpo me
 - Mejorar su concentración.
 - Ayudarle a dormir mejor.
 - Ayudar a la digestión.
+
+## Instrucciones
+1. Alinea tus tobillos, rodillas y caderas.
+2. Relaja los hombros y abre el pecho.
+3. Inhala profundamente mientras levantas los brazos por encima de la cabeza, con las palmas mirando entre sí.
+5. Mantén la postura, respirando profundamente durante 30 segundos a 1 minuto.
