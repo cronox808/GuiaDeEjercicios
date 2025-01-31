@@ -80,3 +80,12 @@ Mejora la estabilidad de la parte superior del cuerpo.
 
 Ejercicio cardiovascular que trabaja todo el cuerpo.
 Mejora la coordinación y resistencia.
+
+## Consejos
+- Mantener el movimiento en la rutina.
+- Calentamiento adecuado del cuerpo.
+- Incorporar el uso del rodillo de espuma.
+- Estiramientos específicos.
+- Hacer pilates para mejorar la flexibilidad.
+- Practicar tai chi.
+- Consistencia en el estiramiento.
