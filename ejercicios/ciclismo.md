@@ -9,3 +9,9 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Mejora la fuerza
 - Mejora la resistencia
 
+## Intrucciones
+1. Elige la bicicleta correcta
+2. hidratate de la manera correcta
+3. Dosifica el esfuerzo
+4. No elijas rutas difíciles: 
+5. Sé prevenido con el clima
