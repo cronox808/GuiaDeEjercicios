@@ -5,3 +5,8 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 
 ## Beneficios
 - Nadar ayuda a mantener flexibles las articulaciones, especialmente el cuello, los hombros y la pelvis. Por otro lado, se consume hasta un 10% más de oxígeno y el corazón bombea hasta un 18% más de sangre, lo que implica una mejor circulación sanguínea y un aumento en la resistencia cardiorrespiratoria.
+
+## Intrucciones
+1. Precalentar y estirar siempre antes de empezar a nadar. 
+2. Reducir el tiempo de entrenamiento si les duelen los hombros, el cuello o tienen cualquier otro tipo de dolor. 
+3. Pueden probar a hacer un tipo de brazada diferente o hacer alguna actividad fuera de la piscina para mantenerse en forma.
